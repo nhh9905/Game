@@ -1,5 +1,6 @@
 # Game
-Game lấy chìa khóa vượt chướng ngại vật để thoát ra ngoài
+Game Prison Escape
+Mục tiêu: Thu thập đủ số chìa khóa để thoát khỏi nhà tù
 P: Người chơi (Player)
 K: Chìa khóa (Key)
 T: Bẫy (Trap)
